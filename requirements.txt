@@ -1,1 +1,8 @@
-fastapi[all]
+fastapi
+uvicorn
+pydantic
+pymongo
+langchain
+langchain-community
+keybert
+sentence-transformers
